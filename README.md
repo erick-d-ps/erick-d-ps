@@ -19,7 +19,7 @@
 <br/><br/>
 
 
-No momento estudando Programação. Gosto muito de teclogia tenho proposito de resover grandes problemas atravez da programação.
+No momento estudando Programação. Gosto muito de tecnologia tenho proposito de resolver grandes problemas através da programação.
 
 ## Entre em contato
 - dncellassistec@gmail.com
