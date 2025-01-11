@@ -5,6 +5,7 @@
 [![instagrm](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erick-de-paula-souza-938260337?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) 
 
 ![Erick GitHub stats](https://github-readme-stats.vercel.app/api?username=erick-d-ps&show_icons=true&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erick-d-ps)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Tecnologia que uso no meu dia 
 
@@ -24,3 +25,5 @@ No momento estudando Programação. Gosto muito de tecnologia tenho proposito de
 ## Entre em contato
 - dncellassistec@gmail.com
 - 67 992741497 whatsapp
+
+  
