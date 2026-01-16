@@ -4,10 +4,16 @@
 [![instagrm](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagran.com/erick__dps) 
 [![instagrm](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erick-de-paula-souza-938260337?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) 
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=erick-d-ps&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=erick-d-ps&layout=compact&theme=dracula"/>
-</p>
+<table align="center">
+  <tr>
+    <td style="padding: 10px;">
+      <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=erick-d-ps&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    </td>
+    <td style="padding: 10px;">
+      <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=erick-d-ps&layout=compact&theme=dracula"/>
+    </td>
+  </tr>
+</table>
 
 ## Tecnologia que uso no meu dia 
 
